@@ -1,1 +1,0 @@
-this is educational project for stepic course
